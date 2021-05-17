@@ -5,7 +5,7 @@ mkdir app
 cd app
 virtualenv venv
 source venv/bin/activate
-git clone https://github.com/KozlovDmitry/testTask
+git clone https://github.com/KozlovDmitry/test3
 pip install -r requirements.txt
 ```
 
